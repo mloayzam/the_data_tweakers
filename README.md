@@ -8,8 +8,12 @@ Group: The Data Tweakers
 
 
 
+
 # Overview
 
+In today's world, stock trends are constantly changing. There are many factors for changes in stock prices. A few factors could be economy, inflation, supply and demand, and company's performance to name a few. Analyzing stock trends before investing could save you dollars.
+
+In this project, we will analyze Telsa price stock trends from 2023-2024 using machine learning.
 
 
 
@@ -20,10 +24,12 @@ Group: The Data Tweakers
 * Linear Regression
 
 
+
 # Database Choice
 
 * Python Pandas
 * Python Matplotlib
+
 
 
 # Findings
