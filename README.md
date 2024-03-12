@@ -53,3 +53,8 @@ In this project, we will analyze Telsa price stock trends from 2023-2024 using m
   
 ![image](https://github.com/mloayzam/the_data_tweakers/assets/143963189/97a84e8f-2716-4d87-baca-e4c114f16294)
 
+
+# Resources 
+
+https://finance.yahoo.com/quote/TSLA/history
+
