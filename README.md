@@ -58,3 +58,12 @@ In this project, we will analyze Telsa price stock trends from 2023-2024 using m
 
 https://finance.yahoo.com/quote/TSLA/history
 
+LSTM Documentation:
+
+https://towardsdatascience.com/a-practical-guide-to-rnn-and-lstm-in-keras-980f176271bc
+
+https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
+
+https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
+
+
